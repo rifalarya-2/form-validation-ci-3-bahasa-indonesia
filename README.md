@@ -1,4 +1,3 @@
 # form validation ci 3 bahasa indonesia
 Cara penggunaan : 
-  1. Download zip atau clone repo
-  2. Extract file kemudian paste di project 
+  Download zip atau clone repo -> Extract file -> Masuk ke project kalian kemudian paste di dalam folder application 
